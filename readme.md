@@ -11,11 +11,11 @@ the production server is only affected in the correct way.
 
 2. Once new version is complete, merge the newest version on StagingServer with the master branch of LiveServer
 
-... switch to the master branch. 
-... make sure you pull the master branch for the newest version.
-... Resolve any conflicts if you have duplicated code with anyone.
-... Once you have resolved all conflicts, commit that version to the repo.
-... Then pull master branch again and resolve any conflicts.
+switch to the master branch.
+make sure you pull the master branch for the newest version.
+Resolve any conflicts if you have duplicated code with anyone.
+Once you have resolved all conflicts, commit that version to the repo.
+Then pull master branch again and resolve any conflicts.
 
 3. Test on the staging server once more
 
